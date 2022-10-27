@@ -1,0 +1,7 @@
+#a=input('Enter your Name:')
+#print("My Name is",a)
+# print("My Name is",a,sep="-")
+# print("My Name is",int(a))  
+# print("My Name is",float(a)) 
+# print("My Name is"+' '+str(a))
+# print("My Name is"+' '+a)
